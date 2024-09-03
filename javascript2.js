@@ -12,7 +12,7 @@ getHumanChoice = function() {
     else { return userInput };
 }
 
-
+// ok
 
 const playGame = function() {
 
